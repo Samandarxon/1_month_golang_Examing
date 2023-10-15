@@ -1,0 +1,56 @@
+[
+    {
+        "id": "07e1d31b-6a5b-44af-ac47-2786d71fe15b",
+        "branch_id": "c64f8f47-93e2-4f34-b6b0-279146231d8e",
+        "user_id": "904d377a-75e4-4dd0-a80d-9449e7b91677",
+        "product_id": "72a332f7-08c4-4091-884b-6e9504f692b2",
+        "type": "pluse",
+        "quantity": 4,
+        "created_at": "2023-08-09 20:05:37"
+    },
+    {
+        "id": "8640de69-91bb-4ed4-b238-6846912d312a",
+        "branch_id": "c29047e7-9bfa-4ea6-8ae7-7ef095698dda",
+        "user_id": "68aa0529-91b7-4d78-91c8-d499232ace39",
+        "product_id": "bc5c5521-2f0f-40ba-b319-3c914b8c8c63",
+        "type": "minus",
+        "quantity": 4,
+        "created_at": "2023-08-05 07:45:32"
+    },
+    {
+        "id": "3fbd9c57-76a9-4999-8731-c5cf797e52c0",
+        "branch_id": "ba9f3ac6-c442-4cd0-815a-b0b9b625b772",
+        "user_id": "3f84d965-762e-40f1-a3ce-d6d759480d91",
+        "product_id": "72a332f7-08c4-4091-884b-6e9504f692b2",
+        "type": "minus",
+        "quantity": 4,
+        "created_at": "2023-08-16 11:24:02"
+    },
+    {
+        "id": "3fbd9c57-76a9-4999-8731-c5cf797e52c0",
+        "branch_id": "ba9f3ac6-c442-4cd0-815a-b0b9b625b772",
+        "user_id": "3f84d965-762e-40f1-a3ce-d6d759480d91",
+        "product_id": "e7e358d3-d466-406c-aa71-d8941034e3d4",
+        "type": "pluse",
+        "quantity": 3,
+        "created_at": "2023-08-16 11:24:02"
+    },
+    {
+        "id": "64b29b93-b432-49bf-bfdd-f220101f852c",
+        "branch_id": "f7497e5f-ce02-452b-8ea4-d5aab1c69a1c",
+        "user_id": "904d377a-75e4-4dd0-a80d-9449e7b91677",
+        "product_id": "f6db138a-a1a0-47b2-94ff-d9972ed8a10d",
+        "type": "minus",
+        "quantity": 9,
+        "created_at": "2023-10-10 12:04:02"
+    },
+    {
+        "id": "4b2f3066-cf5f-4d20-86af-ca336dc7aa12",
+        "branch_id": "f7497e5f-ce02-452b-8ea4-d5aab1c69a1c",
+        "user_id": "904d377a-75e4-4dd0-a80d-9449e7b91677",
+        "product_id": "f6db138a-a1a0-47b2-94ff-d9972ed8a10d",
+        "type": "pluse",
+        "quantity": 2,
+        "created_at": "2023-10-10 12:05:22"
+    }
+]

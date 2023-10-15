@@ -1,0 +1,32 @@
+[
+    {
+        "branch_id":"c29047e7-9bfa-4ea6-8ae7-7ef095698dda",
+        "product_id":"b9e54f3a-7e11-4b0a-94c3-b7e27e601044",
+        "quantity":200
+    },
+    {
+        "branch_id":"ba9f3ac6-c442-4cd0-815a-b0b9b625b772",
+        "product_id":"e92e065d-fb5c-407a-a0d5-1c38491b6624",
+        "quantity":250
+    },
+    {
+        "branch_id":"f7497e5f-ce02-452b-8ea4-d5aab1c69a1c",
+        "product_id":"e7e358d3-d466-406c-aa71-d8941034e3d4",
+        "quantity":50
+    },
+    {
+        "branch_id":"c64f8f47-93e2-4f34-b6b0-279146231d8e",
+        "product_id":"f6db138a-a1a0-47b2-94ff-d9972ed8a10d",
+        "quantity":23
+    },
+    {
+        "branch_id":"a8e5d48e-362a-4085-b500-1e645cc75dca",
+        "product_id":"72a332f7-08c4-4091-884b-6e9504f692b2",
+        "quantity":655
+    },
+    {
+        "branch_id":"c29047e7-9bfa-4ea6-8ae7-7ef095698dda",
+        "product_id":"a4af3ed3-dcc1-48cf-88ac-55de342369ce",
+        "quantity":478
+    }
+]

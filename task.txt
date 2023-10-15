@@ -1,0 +1,48 @@
+1.transactionlar soni bo'yicha top branches
+2.transactionlar summasi bo'yicha top branches
+3.transactionda bo'lgan top productlar
+4.transactionda bo'lgan top categorylar
+5.har bir branchda har bir categorydan qancha transaction bo'lgani 
+
+6. har bir branch nechta plus/minus transactionlar soni, plus/minus transactionlar summasini quyidagicha chiqarish:
+                    Transactions            Summ
+                    plus   minus        plus     minus
+    1. Branch1      53      20          853 000  278 000
+    2. Branch2      38      185         492 000  1 982 000
+
+7. har bir kunda kirgan productlar sonini kamayish tartibida chiqarish:
+        kun         soni
+    1. 2023-08-04   789
+    2. 2023-08-12   634
+    ...  ...  ...  ...
+8. Product qancha kiritilgan va chiqarilganligi jadvali:
+    Name    Kiritilgan  Chiqarilgan
+    Olma     345            847
+    Cola     374            219
+    ....     ...       ...   ....
+
+9. Filialda qancha summalik product borligi jadvali:
+
+1. Branch1        853 000
+2. Branch2      1 982 000
+...    ...   ...   ...  ...
+
+10. har bir user transaction qilgan summasi jadvali: 
+
+1  Akrom   1 349 000
+3  Ilhom   2 974 000
+...  ...  ...
+
+11. har bir user kun bo'yicha nechta va necha sumlik transaction qilgani jadvali:
+
+1 Akrom 2023-01-01  12  382 000
+2 Suhrob 2023-03-05  32  745 000
+...   ...   ...   ...  ....
+
+12. har bir user qancha product kiritgani va chiqargani jadvali:
+         kiritgan  chiqargan
+1 Akrom    12         84
+2 Suhrob   54         33
+...   ...   ...   ...  ...
+
+13. Category,Product CRUDlarni qilish

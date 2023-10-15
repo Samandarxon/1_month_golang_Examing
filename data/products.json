@@ -1,0 +1,50 @@
+[
+    {
+        "id": "b9e54f3a-7e11-4b0a-94c3-b7e27e601044",
+        "category_id": "52675e16-f992-41ae-9f8d-ec2fd8c77e44",
+        "name": "Olma",
+        "price": 5000
+    },
+    {
+        "id": "e92e065d-fb5c-407a-a0d5-1c38491b6624",
+        "category_id": "ff4cb227-92d7-4a7f-83fb-4d7e3e52d4aa",
+        "name": "Coca Cola",
+        "price": 10000
+    },
+    {
+        "id": "72a332f7-08c4-4091-884b-6e9504f692b2",
+        "category_id": "a6b039b8-d47f-43bc-9b87-f38bec06da77",
+        "name": "Lavash",
+        "price": 20000
+    },
+    {
+        "id": "a4af3ed3-dcc1-48cf-88ac-55de342369ce",
+        "category_id": "ff4cb227-92d7-4a7f-83fb-4d7e3e52d4aa",
+        "name": "Sok",
+        "price": 11000
+    },
+    {
+        "id": "bc5c5521-2f0f-40ba-b319-3c914b8c8c63",
+        "category_id": "0cd904d0-2817-4d6a-8eb4-24f960b7d08b",
+        "name": "Sut",
+        "price": 8000
+    },
+    {
+        "id": "e7e358d3-d466-406c-aa71-d8941034e3d4",
+        "category_id": "d6b9e087-6c76-4355-a461-b8e6041d6c4a",
+        "name": "Baliq",
+        "price": 40000
+    },
+    {
+        "id": "f6db138a-a1a0-47b2-94ff-d9972ed8a10d",
+        "category_id": "b8301a79-a369-40b5-b518-3d68d2b43c38",
+        "name": "Muzqaymoq Snikers",
+        "price": 14000
+    },
+    {
+        "id": "662a8646-fa67-4800-8e07-75bd8a7863a1",
+        "category_id": "eee3d471-78c1-4aaf-8c62-4df8acbb5c1f",
+        "name": "Mol go'shti",
+        "price": 75000
+    }
+]
